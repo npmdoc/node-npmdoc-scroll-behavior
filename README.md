@@ -1,6 +1,6 @@
 # npmdoc-scroll-behavior
 
-#### api documentation for  [scroll-behavior (v0.9.3)](https://github.com/taion/scroll-behavior#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scroll-behavior.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scroll-behavior) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scroll-behavior.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scroll-behavior)
+#### basic api documentation for  [scroll-behavior (v0.9.3)](https://github.com/taion/scroll-behavior#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-scroll-behavior.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-scroll-behavior) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-scroll-behavior.svg)](https://travis-ci.org/npmdoc/node-npmdoc-scroll-behavior)
 
 #### Pluggable browser scroll management
 
@@ -100,7 +100,8 @@
         "test": "npm run lint && npm run testonly",
         "testonly": "npm run tdd -- --single-run"
     },
-    "version": "0.9.3"
+    "version": "0.9.3",
+    "bin": {}
 }
 ```
 
